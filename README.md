@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm Demon-X-MD (Menula Oshadha)</h1>
 
-<!-- මෙතැනට ඔයාගේ අලුත් AI බැනර් එක වැටෙනවා -->
+<!-- 🌟 පට්ටම ලස්සනට "Demon X MD" නම සමඟ ඇනිමේට් වන ඩාර්ක් බැනරය -->
 <p align="center">
-  <img src="watermarked_img_9933429160311567547.jpg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=220&section=header&text=Demon%20X%20MD&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20&%20AI%20Automation&descSize=18&descAlignY=60" width="100%">
+</p>
+
+<!-- ⚡ ටයිපිං ඇනිමේෂන් එක -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Bot+Developer;AI+Automation+Enthusiast;Open+Source+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Bot+Developer;AI+Automation+Enthusiast;Open+Source+Creator" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd88c-b4ef-4d47-97d7-0b12228f4f9a.gif" width="100%">
 </p>
 
 ---
@@ -24,8 +29,8 @@
 
 </td>
 <td width="40%" align="center">
-  <!-- 🛑 මෙතැනට ඔයාගේ ෆොටෝ එකේ නම (උදාහරණයක් ලෙස my-photo.jpg) හරියටම දෙන්න -->
-  <img src="my-photo.jpg" width="220px" style="border-radius: 15px;">
+  <!-- 🖼️ ඔයාගේ ෆොටෝ එක නිවැරදිව පෙන්වන තැන -->
+  <img src="image_d87efd.png" width="220px" style="border-radius: 15px;">
 </td>
 </tr>
 </table>
