@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0b0f19&height=220&section=header&text=DEMON%20X%20MD&fontSize=42&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEM%20ARCHITECT%20%7C%20CYBER%20AUTOMATION&descSize=16&descColor=93c5fd&descAlignY=62" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0d1117&height=220&section=header&text=DEMON%20X%20MD&fontSize=42&fontColor=00f0ff&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEM%20ARCHITECT%20%7C%20CYBER%20AUTOMATION&descSize=16&descColor=93c5fd&descAlignY=62" width="100%">
 </p>
 
 <p align="center">
@@ -11,13 +11,11 @@
 
 <br>
 
-<table width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 1px solid #30363d;">
-<tr>
-<td style="padding: 25px;">
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;">
 
 ## 🔵 ABOUT ME
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="background: transparent; color: #c9d1d9;">
 <tr>
 <td width="60%">
 
@@ -30,22 +28,19 @@ Hi, I'm **Menula Oshadha**, known across the web as **Demon-X-MD** — a passion
 
 </td>
 <td width="40%" align="center">
-  <img src="image_d87efd.png" width="200px" style="border-radius: 15px; border: 2px solid #38bdf8;">
+  <!-- 🖼️ ෆොටෝ එක 100% නිවැරදිව ලෝඩ් වීමට සම්පූර්ණ URL එක යොදා ඇත -->
+  <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/demon-x-md/main/image_d87efd.png" width="200px" style="border-radius: 15px; border: 2px solid #38bdf8;">
 </td>
 </tr>
 </table>
 
 <p align="center">Feel free to connect or explore my open-source work: <code>@demon-x-md</code></p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<table width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 1px solid #30363d;">
-<tr>
-<td style="padding: 25px;" align="center">
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd88c-b4ef-4d47-97d7-0b12228f4f9a.gif" width="100%">
 
@@ -60,15 +55,11 @@ $ expertise
 Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 </pre>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<table width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 1px solid #30363d;">
-<tr>
-<td style="padding: 25px;" align="center">
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;" align="center">
 
 ## 🛠️ TECH STACK
 
@@ -97,15 +88,11 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
   <img src="https://skillicons.dev/icons?i=vscode,npm,postman,discord,figma" />
 </p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
-<table width="100%" bgcolor="#0d1117" style="border-radius: 15px; border: 1px solid #30363d;">
-<tr>
-<td style="padding: 25px;" align="center">
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;" align="center">
 
 ## 📊 GITHUB STATS & ANALYTICS
 
@@ -121,9 +108,7 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menulaoshadha69-blip&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
