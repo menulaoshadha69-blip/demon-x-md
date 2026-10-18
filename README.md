@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=DEMON%20X%20MD&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20|%20AI%20%26%20AUTOMATION&descSize=15&descColor=94a3b8&descAlignY=65" width="100%">
+  <img src="https://capsule-render.vercel.app api?type=rect&color=0d1117&height=180&section=header&text=DEMON%20X%20MD&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&descSize=15&descColor=94a3b8&descAlignY=65" width="100%">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Hi, I'm **Menula Oshadha**, known across the web as **Demon-X-MD** — a passion
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd88c-b4ef-4d47-97d7-0b12228f4f9a.gif" width="100%">
 </p>
 
-```bash
+```text
 $ whoami
 Demon-X-MD (Menula Oshadha)
 
