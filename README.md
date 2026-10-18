@@ -56,9 +56,12 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+<br>
+
+<!-- 🌟 අර ඔබ සලකුණු කළ තැනට දැමූ ඩාර්ක් කොටුව සහ සජීවී ඇනිමේෂන් රේඛාව -->
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 15px; border-radius: 15px; border: 1px solid #30363d;" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;">
+</div>
 
 <br>
 
@@ -78,7 +81,7 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 <h3 align="center" style="color: #38bdf8;">Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons`i=mongodb,mysql,sqlite,firebase,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker" />
 </p>
 
 <h3 align="center" style="color: #38bdf8;">DevOps, Cloud & Systems</h3>
@@ -115,7 +118,7 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 <br>
 
-<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1117;" align="center">
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;" align="center">
   <img src="https://komarev.com/ghprofile/?username=demon-x-md&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <h3 style="color: #38bdf8; margin-top: 15px;">🤝 Let's build something great together!</h3>
 </div>
