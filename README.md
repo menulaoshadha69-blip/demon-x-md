@@ -23,7 +23,7 @@
 
 </td>
 <td width="40%" align="center">
-  <img src="image_d87efd.png" width="220px" style="border-radius: 15px;">
+  <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/demon-x-md/main/image_d87efd.png" width="220px" style="border-radius: 15px;">
 </td>
 </tr>
 </table>
