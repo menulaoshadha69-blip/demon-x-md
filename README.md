@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app api type=rect&color=0d1117&height=180&section=header&text=DEMON%20X%20MD&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&descSize=15&descColor=94a3b8&descAlignY=65" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=DEMON%20X%20MD&fontSize=38&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20%26%20AUTOMATION&descSize=15&descColor=94a3b8&descAlignY=65" width="100%">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Hi, I'm **Menula Oshadha**, known across the web as **Demon-X-MD** — a passion
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd88c-b4ef-4d47-97d7-0b12228f4f9a.gif" width="100%">
 </p>
 
-```text
+<pre>
 $ whoami
 Demon-X-MD (Menula Oshadha)
 
@@ -46,3 +46,57 @@ JavaScript | TypeScript | Node.js | Python | C#
 
 $ expertise
 Frontend 🔹 Backend 🔹 Automation 🔹 Bot Development
+</pre>
+
+---
+
+## 🛠️ TECH STACK
+
+<h3 align="center">Core Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,html,css,git,github" />
+</p>
+
+<h3 align="center">Frontend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
+</p>
+
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker" />
+</p>
+
+<h3 align="center">DevOps, Cloud & Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vercel,netlify" />
+</p>
+
+<h3 align="center">Developer Tools & Automation</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,npm,postman,discord,figma" />
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menulaoshadha69-blip&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=menulaoshadha69-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menulaoshadha69-blip&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghprofile/?username=demon-x-md&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<h3 align="center">🤝 Let's build something great together!</h3>
