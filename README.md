@@ -28,7 +28,6 @@ Hi, I'm **Menula Oshadha**, known across the web as **Demon-X-MD** — a passion
 
 </td>
 <td width="40%" align="center">
-  <!-- 🖼️ ෆොටෝ එක 100% නිවැරදිව ලෝඩ් වීමට සම්පූර්ණ URL එක යොදා ඇත -->
   <img src="https://raw.githubusercontent.com/menulaoshadha69-blip/demon-x-md/main/image_d87efd.png" width="200px" style="border-radius: 15px; border: 2px solid #38bdf8;">
 </td>
 </tr>
@@ -57,6 +56,10 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 <br>
 
 <div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1d9;" align="center">
@@ -75,7 +78,7 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 <h3 align="center" style="color: #38bdf8;">Backend & Database</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,docker" />
+  <img src="https://skillicons.dev/icons`i=mongodb,mysql,sqlite,firebase,docker" />
 </p>
 
 <h3 align="center" style="color: #38bdf8;">DevOps, Cloud & Systems</h3>
@@ -112,8 +115,7 @@ Frontend 🔹 Backend 🔹 AI Automation 🔹 Bot Development
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghprofile/?username=demon-x-md&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
-
-<h3 align="center">🤝 Let's build something great together!</h3>
+<div data-color-mode="dark" data-dark-theme="dark" style="background-color: #0d1117; padding: 25px; border-radius: 15px; border: 1px solid #30363d; color: #c9d1117;" align="center">
+  <img src="https://komarev.com/ghprofile/?username=demon-x-md&color=00f0ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <h3 style="color: #38bdf8; margin-top: 15px;">🤝 Let's build something great together!</h3>
+</div>
